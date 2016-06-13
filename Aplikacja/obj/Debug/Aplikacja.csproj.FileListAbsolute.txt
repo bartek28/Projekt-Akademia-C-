@@ -1,0 +1,9 @@
+c:\users\bartosz\documents\visual studio 2015\Projects\Aplikacja\Aplikacja\bin\Debug\Aplikacja.exe.config
+c:\users\bartosz\documents\visual studio 2015\Projects\Aplikacja\Aplikacja\bin\Debug\Aplikacja.exe
+c:\users\bartosz\documents\visual studio 2015\Projects\Aplikacja\Aplikacja\bin\Debug\Aplikacja.pdb
+c:\users\bartosz\documents\visual studio 2015\Projects\Aplikacja\Aplikacja\obj\Debug\Aplikacja.csprojResolveAssemblyReference.cache
+c:\users\bartosz\documents\visual studio 2015\Projects\Aplikacja\Aplikacja\obj\Debug\Aplikacja.Form1.resources
+c:\users\bartosz\documents\visual studio 2015\Projects\Aplikacja\Aplikacja\obj\Debug\Aplikacja.Properties.Resources.resources
+c:\users\bartosz\documents\visual studio 2015\Projects\Aplikacja\Aplikacja\obj\Debug\Aplikacja.csproj.GenerateResource.Cache
+c:\users\bartosz\documents\visual studio 2015\Projects\Aplikacja\Aplikacja\obj\Debug\Aplikacja.exe
+c:\users\bartosz\documents\visual studio 2015\Projects\Aplikacja\Aplikacja\obj\Debug\Aplikacja.pdb
